@@ -2,9 +2,9 @@
 
 Contains all APIs for the Fast food fast web application which is an online food application.
 
-[![Build Status](https://travis-ci.org/cleopasrotich/fast_foods_v1.svg?branch=master)](https://travis-ci.org/cleopasrotich/fast_foods_v1)
+[![Build Status](https://travis-ci.org/cleopasrotich/fast_foods_v1.svg?branch=master)](https://travis-ci.org/cleopasrotich/fast_foods_v1) [![Coverage Status](https://coveralls.io/repos/github/cleopasrotich/fast_foods_v1/badge.svg?branch=master)](https://coveralls.io/github/cleopasrotich/fast_foods_v1?branch=master)
 
-[![Coverage Status](https://coveralls.io/repos/github/cleopasrotich/Fast_Food_Fast_v2/badge.svg?branch=develop)](https://coveralls.io/github/cleopasrotich/Fast_Food_Fast_v2?branch=develop)
+
 
 ## Endpoints used
 
