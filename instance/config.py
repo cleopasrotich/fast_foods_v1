@@ -1,5 +1,6 @@
 import os
 
+database_name = 'fast_foods'
 
 class Config:
     DEBUG = False
